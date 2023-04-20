@@ -34,13 +34,6 @@ item:
   title: EPS_Johnson & Johnson Medical (bookdown updating, access required)
   url: https://bookdown.org/tang_chengxiang/eps_jjm/
 
-- date_start: "2022-04-27"
-  description: ""
-  organization: Bookdown Repo
-  organization_url: 
-  title: Keeping People out of Hospital (bookdown updating, access required)
-  url: https://bookdown.org/tang_chengxiang/kpoh/
-
 
 
 design:

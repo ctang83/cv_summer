@@ -10,8 +10,8 @@ role: Educator and Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Macquarie University
-  url: https://www.mq.edu.au/
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include early education
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
-    institution: University of New South Wales
-    year: 2015
-  - course: MA in Social Medicine & Health Administration
-    institution: Fujian Medical University
-    year: 2011
-  - course: BSc in Food Science and Engineering 
-    institution: Southwest University
-    year: 2006
+  - course: PhD in Analytical Chemistry
+    institution: Fudan University
+    year: 2012
+  - course: MS in Analytical Chemistry
+    institution: Hunan Normal University
+    year: 2010
+  - course: BSc in Pharmacy 
+    institution: China Pharmaceutical University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Summer studio  
+This is Teacher Summer's studio. 
 
-Summer喜欢教育和研究, 对超常儿童教育有兴趣
+Summer喜欢教育和研究, 对早期教育和超常儿童教育有兴趣。
 
