@@ -24,15 +24,15 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Medical Education
-    tag: Medical Education
-  - name: Health Data
-    tag: Health Data
-  - name: Australia
-    tag: Australia
+  #filter_button:
+  #- name: All
+  #  tag: '*'
+  #- name: Medical Education
+  #  tag: Medical Education
+  #- name: Health Data
+  #  tag: Health Data
+  #- name: Australia
+  #  tag: Australia
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
