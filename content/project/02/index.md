@@ -1,6 +1,6 @@
 ---
-title: AA
-summary: BB
+title: MM
+summary: To investigate how to produce human capital in health professions.
 tags:
 - Medical Education
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-VV
+Medical Education
