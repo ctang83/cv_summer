@@ -1,16 +1,15 @@
 ---
-title: info 
+title: Numbers system
 subtitle: 
 
 # Summary for listings and search engines
-summary: This website 
+summary: This is about numbers system  
 
-# Link this post with a project
+# Link this post with a project 多个posts可以组一个project
 projects: []
 
 # Date published
 date: "2020-12-13T00:00:00Z"
-
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
 
