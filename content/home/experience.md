@@ -18,24 +18,24 @@ date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+#   Required fields are `title`, `date_start`. 日期格式不能改变
+#   Leave `date_end` empty if it's your current employer. logo在哪里？
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Program A
-    company: XX
+  - title: Program X
+    company: 
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Sydney
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
         Responsibilities include: Analysing, Modelling, Deploying
         
-  - title: Program BB
+  - title: Program Y
     company: 
     company_url: ''
-    company_logo: org-x
+    company_logo: org-y
     location: 
     date_start: '2023-01-01'
     date_end: ''
