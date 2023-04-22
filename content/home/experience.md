@@ -19,7 +19,8 @@ date_format: Jan 2006
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `date_start`. 日期格式不能改变
-#   Leave `date_end` empty if it's your current employer. logo 在 assets/media/icons/brands/org-y.svg
+#   Leave `date_end` empty if it's your current employer. 
+# logo 在 assets/media/icons/brands/org-y.svg， 可在 https://icones.js.org/collection/ic?s=Y 下载
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Program X
