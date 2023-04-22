@@ -6,7 +6,7 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
+# Order that this section appears on the page. 页面排位
 weight: 60
 
 title: Posts/Blog
