@@ -6,7 +6,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page. 页面排位
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Science Notebooks'

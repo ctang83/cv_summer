@@ -1,5 +1,5 @@
 ---
-title: AA
+title: Program B
 summary: BB
 tags:
 - Medical Education

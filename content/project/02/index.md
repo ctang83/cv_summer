@@ -1,5 +1,5 @@
 ---
-title: MM
+title: Program A
 summary: To investigate how to produce human capital in health professions.
 tags:
 - Medical Education
