@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Summer Xia
+title: Summer & Tang
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,7 +17,7 @@ organizations:
 bio: My interests include early education
 
 # Interests to show in About widget
-interests:
+what:
 - Early education
 - a 
 - b 
@@ -78,3 +78,9 @@ This is Teacher Summer's studio.
 Summer擅长教育和研究, 对早期教育和超常儿童教育有兴趣。
 
 Summer拥有超常儿童教育中级指导师资格（中科院施建农教授授业）。
+
+K-2 数理启蒙（含学前启蒙）：提升数感，逻辑思维能力，视听觉专注力
+
+Year 3-4：OC准备班，OC冲刺班
+
+Year 5-6: Selective精英中学备考班
