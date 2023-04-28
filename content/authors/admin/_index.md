@@ -23,17 +23,17 @@ interests:
 - b 
 
 # Education to show in About widget
-education:
+what we offer:
   courses:
-  - course: PhD in Analytical Chemistry
-    institution: Fudan University
-    year: 2012
-  - course: MS in Analytical Chemistry
-    institution: Hunan Normal University
-    year: 2010
-  - course: BSc in Pharmacy 
-    institution: China Pharmaceutical University
-    year: 2007
+  - course: K-2 数理启蒙（含学前启蒙）
+    institution: 提升数感，逻辑思维能力，视听觉专注力
+    year: 
+  - course: Year 3-4
+    institution: OC准备班，OC冲刺班
+    year: 
+  - course: Year 5-6
+    institution: Selective精英中学备考班
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
