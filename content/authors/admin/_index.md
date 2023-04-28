@@ -17,13 +17,13 @@ organizations:
 bio: My interests include early education
 
 # Interests to show in About widget
-what:
+what: # 此部分不显示 if 改成interest外单词
 - Early education
 - a 
 - b 
 
 # Education to show in About widget
-programs:
+programs:  # 此部分不显示 if 改成education外单词
   courses:
   - course: K-2 数理启蒙（含学前启蒙）
     institution: 提升数感，逻辑思维能力，视听觉专注力
@@ -73,11 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-This is Teacher Summer's studio. 
-
-Summer擅长教育和研究, 对早期教育和超常儿童教育有兴趣。
-
-Summer拥有超常儿童教育中级指导师资格（中科院施建农教授授业）。
+我们提供的项目：
 
 K-2 数理启蒙（含学前启蒙）：提升数感，逻辑思维能力，视听觉专注力
 

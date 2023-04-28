@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10  # 靠weight排序
+  - name: About
+    url: '#us'
+    weight: 15
   - name: Programs
     url: '#projects'
     weight: 20

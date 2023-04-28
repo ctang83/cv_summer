@@ -30,4 +30,7 @@ url_video: ""
 # slides: example
 ---
 
-VV
+Summer擅长教育和研究, 对早期教育和超常儿童教育有兴趣。
+
+Summer拥有超常儿童教育中级指导师资格（中科院施建农教授授业）。
+
