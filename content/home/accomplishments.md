@@ -24,15 +24,15 @@ item:
   description: ""
   organization: Github Repo
   organization_url: 
-  title: Chengxiang's Notebook (Github base, updating)
-  url: https://ctang83.github.io/NB_tang/
+  title: Summer Notebook (Hugo-build, Git base, netlify display)
+  url: https://sumbook.netlify.app/
   
 - date_start: "2022-04-01"
-  description: ""
+  description: "My son, Jonny Tang, is recording his ideas"
   organization: Bookdown Repo
   organization_url: 
-  title: EPS_Johnson & Johnson Medical (bookdown updating, access required)
-  url: https://bookdown.org/tang_chengxiang/eps_jjm/
+  title: Jonny Tang's Notebook (R building, Git base, netlify display)
+  url: https://ctangnb.netlify.app/
 
 
 

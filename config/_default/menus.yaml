@@ -6,19 +6,19 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 10  # 靠weight排序
   - name: Programs
     url: '#projects'
     weight: 20
 #  - name: Services
 #    url: '#experience'
 #    weight: 20
+  - name: Notebooks
+    url: '#accomplishments'
+    weight: 60
   - name: Posts
     url: '#posts'
     weight: 40
-  - name: Notebooks
-    url: '#accomplishments'
-    weight: 30
   - name: Contact
     url: '#contact'
     weight: 90
