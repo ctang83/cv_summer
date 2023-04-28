@@ -23,7 +23,7 @@ interests:
 - b 
 
 # Education to show in About widget
-what we offer:
+education:
   courses:
   - course: K-2 数理启蒙（含学前启蒙）
     institution: 提升数感，逻辑思维能力，视听觉专注力
