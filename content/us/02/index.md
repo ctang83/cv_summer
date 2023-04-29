@@ -1,6 +1,6 @@
 ---
 title: Tang
-summary: To investigate how to produce human capital in health professions.
+summary: Dr Tang's background and experience
 tags:
 - Medical Education
 date: "2016-04-27T00:00:00Z"

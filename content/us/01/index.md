@@ -1,6 +1,6 @@
 ---
 title: Summer
-summary: BB
+summary: Teacher Summer's experience and interests 
 tags:
 - Medical Education
 date: "2016-04-27T00:00:00Z"

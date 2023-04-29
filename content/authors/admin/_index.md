@@ -73,6 +73,18 @@ email: ""
 highlight_name: true
 ---
 
+动机，哲学，目标等
+
+I specialise in helping teenagers to develop motivation, discipline, and resilience.
+
+I do this by equipping them with the mindset and skills for success in school – and beyond.
+
+Read on to find out how I can help your teen through this 1-to-1 coaching programme. (It's much more than just academic coaching or life coaching for teens!)
+
+I know this for a fact, because I’ve spoken to and worked with more than 500 kids and students.
+
+My experience has made one thing clear – all parents want their children to make the most of their potential. But obstacles like the ones above often get in the way.
+
 我们提供的项目：
 
 K-2 数理启蒙（含学前启蒙）：提升数感，逻辑思维能力，视听觉专注力

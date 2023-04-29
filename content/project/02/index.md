@@ -1,6 +1,6 @@
 ---
-title: Program A
-summary: To investigate how to produce human capital in health professions.
+title: Program Year 3-4
+summary: OC准备班，OC冲刺班
 tags:
 - Medical Education
 date: "2016-04-27T00:00:00Z"

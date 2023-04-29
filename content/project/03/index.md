@@ -1,6 +1,6 @@
 ---
-title: Program Year K-2
-summary: 提升数感，逻辑思维能力，视听觉专注力
+title: Program Year 5-6
+summary: Selective精英中学备考班
 tags:
 - Medical Education
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-VV
+Medical Education
